@@ -83,6 +83,10 @@ print(first[1:])       # Slicing
 - Learn how tuples can be combined, repeated, and accessed.
 - Build confidence with Python syntax through small exercises.
 
+## 🏷️ Repository Topics
+
+`python` · `jupyter-notebook` · `python-basics` · `strings` · `tuples` · `programming-practice` · `beginner-friendly` · `learning-python`
+
 ## 🛠️ Tools Used
 
 <p>
